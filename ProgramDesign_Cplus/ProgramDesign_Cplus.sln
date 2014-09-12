@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgramDesign_Cplus", "ProgramDesign_Cplus\ProgramDesign_Cplus.vcxproj", "{3C244FB8-96A1-48A4-A933-8C1AC8E54057}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorldinASCII", "HelloWorldinASCII\HelloWorldinASCII.vcxproj", "{2BD65FC9-E85C-4846-B6A6-C2473FC3C14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C244FB8-96A1-48A4-A933-8C1AC8E54057}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C244FB8-96A1-48A4-A933-8C1AC8E54057}.Debug|Win32.Build.0 = Debug|Win32
+		{3C244FB8-96A1-48A4-A933-8C1AC8E54057}.Release|Win32.ActiveCfg = Release|Win32
+		{3C244FB8-96A1-48A4-A933-8C1AC8E54057}.Release|Win32.Build.0 = Release|Win32
+		{2BD65FC9-E85C-4846-B6A6-C2473FC3C14E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BD65FC9-E85C-4846-B6A6-C2473FC3C14E}.Debug|Win32.Build.0 = Debug|Win32
+		{2BD65FC9-E85C-4846-B6A6-C2473FC3C14E}.Release|Win32.ActiveCfg = Release|Win32
+		{2BD65FC9-E85C-4846-B6A6-C2473FC3C14E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
